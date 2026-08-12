@@ -67,5 +67,3 @@ Feel free to ⭐ star the repo if this saved your videos!
 
 ---
 
-## 📄 License
-MIT License - use it, modify it, share it freely!
